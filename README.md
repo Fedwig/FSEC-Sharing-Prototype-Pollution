@@ -1,10 +1,8 @@
 # Web Basics- Prototype Pollution
 
----
 
 ## Docker Installation
 
----
 
 If you do not have docker installed or are using an older version, you can follow the steps to install it from the link below:
 
@@ -12,11 +10,9 @@ https://docs.docker.com/engine/install/debian/
 
 ## Challenge Setup
 
----
 
 ### filestorage
 
----
 
 Go  to challenge directory and run the following commands to build and run docker container:
 
@@ -47,8 +43,6 @@ docker kill <CONTAINER_ID>
 ```
 
 ### funnylogin
-
----
 
 Because there wasn’t any issues with the YAML configuration file, we can just use docker compose for this one.
 
