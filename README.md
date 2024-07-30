@@ -1,8 +1,6 @@
 # Web Basics- Prototype Pollution
 
-
 ## Docker Installation
-
 
 If you do not have docker installed or are using an older version, you can follow the steps to install it from the link below:
 
@@ -10,9 +8,7 @@ https://docs.docker.com/engine/install/debian/
 
 ## Challenge Setup
 
-
 ### filestorage
-
 
 Go  to challenge directory and run the following commands to build and run docker container:
 
