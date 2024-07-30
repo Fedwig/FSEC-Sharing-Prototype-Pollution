@@ -38,6 +38,9 @@ docker container ls
 docker kill <CONTAINER_ID>
 ```
 
+
+
+
 ### funnylogin
 
 Because there wasn’t any issues with the YAML configuration file, we can just use docker compose for this one.
