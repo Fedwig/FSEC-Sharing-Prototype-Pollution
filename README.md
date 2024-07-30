@@ -16,7 +16,7 @@ https://docs.docker.com/engine/install/debian/
 
 Go  to challenge directory and run the following commands to build and run docker container:
 
-1. Build docker image (*make sure to be same directory as the dockerfile).*
+1. Build the docker image (*make sure to be same directory as the dockerfile).*
 
 ```docker
 docker build -t filestorage .
