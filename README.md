@@ -8,7 +8,7 @@ https://docs.docker.com/engine/install/debian/
 
 ## Challenge Setup
 
-### filestorage
+### Challenge 1: filestorage
 
 Go  to challenge directory and run the following commands to build and run docker container:
 
@@ -38,10 +38,7 @@ docker container ls
 docker kill <CONTAINER_ID>
 ```
 
-
-
-
-### funnylogin
+### Challenge 2: funnylogin
 
 Because there wasn’t any issues with the YAML configuration file, we can just use docker compose for this one.
 
