@@ -7,8 +7,12 @@ WORKDIR /app
 
 COPY ./app /app
 
+# Debugging steps
+RUN ls -la /app
+RUN cat /app/package.json
+
 RUN npm install
 
-EXPOSE 8000
+EXPOSE 8001
 
 CMD ["npm", "start"]
